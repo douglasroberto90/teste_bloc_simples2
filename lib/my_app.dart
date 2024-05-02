@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         create: (_) => CounterCubit(),
         child: MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'Fluttertube',
+          title: 'Exemplo BLoC 2',
           theme: ThemeData(
             colorScheme: ColorScheme.dark(),
             useMaterial3: true,
