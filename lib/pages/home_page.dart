@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:teste_bloc_simples2/Blocs/counter_cubit.dart';
+import 'package:teste_bloc_simples2/blocs/counter_cubit.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
